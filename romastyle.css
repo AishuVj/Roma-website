@@ -1,0 +1,60 @@
+body {font-family: "Lato", sans-serif}
+.roma_green {background-color: #5cdb95;}
+.roma_blue {background-color:#0d19a3;}
+.header {
+    padding-top: 48px;
+    padding-bottom: 24px;
+}
+.headerunit {
+    padding-top: 40px;
+    padding-bottom: 8px;
+}
+.entry_panel {
+    background-color:#5cdb95;
+
+}
+#page-container {
+  position: relative;/*sets the position to relative, which allows it to be positioned relative to its normal position*/
+  min-height: 100vh;
+}
+#content-wrap {
+  padding-bottom: 2.5rem; /*  sets the amount of padding at the bottom of the #content-wrap element to 2.5 times the font size of the root element. */  
+}
+#footer {
+  position: absolute;/* Sets the position of the #footer element to absolute, which removes it from the normal document flow */
+  bottom: 0px;
+  width: 100%;
+  height: 2.5rem; /* Sets the height of the #footer element to 2.5 rem units */
+  text-align: center;         
+}
+/*google translate Dropdown */
+ 
+#google_translate_element select{
+ background:#5cdb95;
+ color:#383ffa;
+ border: none;
+ border-radius:3px;
+ padding:6px 8px
+ }
+ 
+ /*google translate link | logo */
+   .goog-logo-link,.goog-te-gadget span,div#goog-gt-{
+   display:none!important;
+   }
+ .goog-te-gadget{
+   color:transparent!important;
+   font-size:0;
+ }
+ 
+ /* google translate banner-frame */
+ 
+ .goog-te-banner-frame{
+ display:none;
+ }
+ 
+ #goog-gt-tt, .goog-te-balloon-frame{display: none !important;}
+.goog-text-highlight { background: none !important; box-shadow: none !important;}
+ 
+ body > .skiptranslate{
+    display: none;
+    }

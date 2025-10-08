@@ -1,0 +1,43 @@
+﻿id,Level,Unit No,Unit,Question,Answer1,Answer2,Answer3,Image,Correct
+L1U1Q1,1,1,Covid,What is this?,A positive Covid test,A negative Covid test,A new Covid test,,a
+L1U1Q2,1,1,Covid,What is the NHS non-emergency number?,123,999,111,,c
+L1U2Q1,1,2,Universal Credit,What does UC stand for?,Unlimited Credit,Universal Credibility,Universal Credit,,c
+L1U2Q2,1,2,Universal Credit,Where can you go for help to find a job in the UK?,Post Office,Job Centre Plus,Walk-in Covid Testing Centre,,b
+L1U3Q1,1,3,Carer's Allowance,What does PIP stand for?,Personal Injury Payment,Personal Independence Payment,Personal Independence Problem,,b
+L1U3Q2,1,3,Carer's Allowance,What is she doing?,"She is taking tablets.
+",She is take tablets,She is takes tablets.,,a
+L1U4Q1,1,4,Personal Independence Payment,What is the carer doing?,He is putting the man's shoes on.,He put the man's shoes on.,He is put the man's shoes on.,,a
+L1U4Q2,1,4,Personal Independence Payment,What is this?,A hearing aid,A walking stick,A wheelchair,,b
+L1U5Q1,1,5,Pregnancy,Choose the correct spelling:,pregnant,pregnant,pregernant,,b
+L1U5Q2,1,5,Pregnancy,What is this?,A blood test,A covid test,A urine test,,a
+L1U6Q1,1,6,Shopping,Complete the sentence: How ____ is it please?,much,cost,many,,a
+L1U6Q2,1,6,Shopping,What type of shop is this?,A bakery,A newsagents,A pharmacy,,c
+L1U7Q1,1,7,Domestic Violence,Look at the picture. Choose the correct sentence.,"She is a victim
+",He is a victim,He is the perpetrator,,b
+L1U7Q2,1,7,Domestic Violence,Choose the correct spelling:,woman,wuman,womun,,a
+L1U8Q1,1,8,Health Problems,Complete the sentence: I ____ a cough.,have,has,had,,a
+L1U8Q2,1,8,Health Problems,What is his job?,Nurse,Pharmacist,Midwife,,b
+L3U1Q1,3,1,Covid,What does 'self-isolating' mean?,Staying at home away from other people,Wearing a mask,Standing 1-2 metres away from other people,,a
+L3U1Q2,3,1,Covid,Choose the correct spelling,Simptoms,Symptoms,Symptems,,b
+L3U1Q3,3,1,Covid,Complete the sentence: She has had Covid ___ two w…,since,for,ago,,b
+L3U2Q1,3,2,Universal Credit,What does UC stand for?,Unlimited Credit,Universal Credibility,Universal Credit,,c
+L3U2Q2,3,2,Universal Credit,Where can you go for help to find a job in the UK?,Post Office,Job Centre Plus,Walk-in Covid Testing Centre,,b
+L3U2Q3,3,2,Universal Credit,Choose the correct spelling:,appointment,apointment,appointmant,,a
+L3U3Q1,3,3,Carer's Allowance,Choose the correct spelling:,independence,independance,indepandence,,a
+L3U3Q2,3,3,Carer's Allowance,"Doctors, nurses and pharmacists are all:",Education professionals,Health professionals,Care professionals,,b
+L3U3Q3,3,3,Carer's Allowance,Complete the sentence: He receives PIP _____ he is…,because,so,but,,a
+L3U4Q1,3,4,Personal Independence Payment,What is the carer doing?,He is putting the man's shoes on.,He put the man's shoes on.,He is put the man's shoes on.,,a
+L3U4Q2,3,4,Personal Independence Payment,Choose the correct spelling:,Weelchar,Wheelchair,Whelchair,,b
+L3U4Q3,3,4,Personal Independence Payment,Complete the sentence: I have _____ for Carer's Allowance,applied,sent,received,,a
+L3U5Q1,3,5,Pregnancy,Choose the correct spelling:,pregnant,pregnant,pregernant,,b
+L3U5Q2,3,5,Pregnancy,Look at the picture and choose the correct sentence:,She is having ablood test ,She is having a Covid test.,She is having a urine test.,,a
+L3U5Q3,3,5,Pregnancy,Where do you go to register the birth of a new baby?,Post Office,Registry Office,Assessment Centre,,b
+L3U6Q1,3,6,Shopping,Complete the sentence: How ____ does it cost?,much,cost,many,,a
+L3U6Q2,3,6,Shopping,Where can you buy medicines in the UK?,A market,A newsagents,A pharmacy,,c
+L3U6Q3,3,6,Shopping,Look at the picture and choose the correct sentence:,He is a shopkeeper and she is the customer.,He is the customer and she is a shopkeeper,They are both customers.,,a
+L3U7Q1,3,7,Domestic Violence,Look at the picture. Choose the correct sentence.,He is the victim and she is the perpetrator.,She is the victim and he is the perpetrator.,They are both victims,,a
+L3U7Q2,3,7,Domestic Violence,Choose the correct spelling:,vilent,violont,violent,,c
+L3U7Q3,3,7,Domestic Violence,The opposite of legal is:,unlegal,illegal,dislegal,,b
+L3U8Q1,3,8,Health Problems,A pharmacist can give you advice about:,Stopping smoking,Raising children,Finding work,,a
+L3U8Q2,3,8,Health Problems,Complete the sentence: I ___ ____ a cough since Monday.,Have had,Has had,Had had,,a
+L3U8Q3,3,8,Health Problems,What is the NHS non-emergency number?,123,999,111,,c
